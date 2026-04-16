@@ -20,7 +20,7 @@ python trie.py
 This will execute the example usage included in the if __name__ == "__main__": block.
 4. Expected Output
 When you run the code, you should see:
-程式碼
+
 True
 True
 False
@@ -59,7 +59,7 @@ python --version
 2. Download the Code
 Save the above code into a file named dijkstra.py.
 Project structure:
-程式碼
+
 project_folder/
     dijkstra.py
 3. Running the Code
@@ -68,7 +68,7 @@ bash
 python dijkstra.py
 4. Expected Output
 You should see:
-程式碼
+
 Shortest paths from A:
   A: 0
   B: 4
