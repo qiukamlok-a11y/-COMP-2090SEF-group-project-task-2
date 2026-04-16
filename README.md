@@ -1,7 +1,7 @@
 # -COMP-2090SEF-group-project-task-2
 Our purpose is to learn about Trie-Data-Structure and Dijkstra-s-Algorithm
 
-User Guide – Trie Data Structure (Python)
+#User Guide – Trie Data Structure (Python)
 1. Prerequisites
 Python Version: Ensure you have Python 3.8 or above installed.
 Environment: Works on Windows, macOS, or Linux.
@@ -47,7 +47,8 @@ print(trie.starts_with("he"))     # True
 Add an autocomplete function to return all words starting with a given prefix.
 Store words from a dictionary file for spell-checking.
 Integrate into larger projects (e.g., search engines, text editors).   
-User Guide – Dijkstra’s Algorithm
+
+#User Guide – Dijkstra’s Algorithm
 1. Prerequisites
 Python Version: Python 3.8 or above.
 Environment: Works on Windows, macOS, or Linux.
